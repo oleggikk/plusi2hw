@@ -9,6 +9,8 @@ void printMatrix(int **matrix, int rows, int strings);
 void task5();
 void arrayChanger(int arr[], int size_of_array);
 void task7();
+void task8();
+int sumBetweenZeroes(int *arr, int sizeOfArray);
 void locminFinder(int arr[], int size_of_array);
 void task9();
 int* insertionSortFromMinToMax(int arr[], int size_of_array);
