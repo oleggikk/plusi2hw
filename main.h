@@ -18,6 +18,7 @@ int* insertionSortFromMaxToMin(int arr[], int size_of_array);
 void task11();
 void editMatrix(int **matrix, int rows, int strings);
 void task13();
+void task14();
 void connectArrays(int *num1, int *num2, int m, int n);
 void task15();
 void paskalTriangle(int **matrix, int rows);
