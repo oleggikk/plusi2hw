@@ -1,6 +1,7 @@
 #include <iostream>
+#include "main.h"
 
-int main()
+void task14()
 {
     //TASK 14
 
@@ -45,6 +46,4 @@ int main()
     delete[] arr;
 
     std::cout<<"The maximum profit you can achieve through this transaction is: "<< maximum;
-
-    return 0;
 }
