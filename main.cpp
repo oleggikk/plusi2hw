@@ -24,7 +24,7 @@ void printMatrix(int **matrix, int rows, int strings)
 
 int main() {
     
-    task3();
+    task2();
     task5();
     task7();
     task8();
