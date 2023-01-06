@@ -19,6 +19,8 @@ void locminFinder(int arr[], int size_of_array);
 void task9();
 int* insertionSortFromMinToMax(int arr[], int size_of_array);
 int* insertionSortFromMaxToMin(int arr[], int size_of_array);
+void task10();
+void task10Func(float *array1, float *array2, int sizeOfArray);
 void task11();
 void editMatrix(int **matrix, int rows, int strings);
 void task13();
