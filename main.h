@@ -10,6 +10,8 @@ void task2();
 void task3();
 void printArray(int arr[], int size_of_array);
 void printMatrix(int **matrix, int rows, int strings);
+void task4Func(float *array,int sizeOfArray);
+void task4();
 void task5();
 void arrayChanger(int arr[], int size_of_array);
 void task7();
