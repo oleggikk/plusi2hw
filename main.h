@@ -23,6 +23,17 @@ void task10();
 void task10Func(float *array1, float *array2, int sizeOfArray);
 void task11();
 void editMatrix(int **matrix, int rows, int strings);
+template <typename T>
+void fillArrayKB(int n, T* arr);
+template <typename T>
+void fillMatrix(int n, int m, T **matrix);
+template <typename T>
+void printMatrix(int n, int m, T **matrix);
+template <typename T>
+int sum(int n, T *arr);
+template <typename T>
+void findMinMax(int n, int m, T **matrix);
+void task12();
 void task13();
 void task14();
 void connectArrays(int *num1, int *num2, int m, int n);
