@@ -29,6 +29,7 @@ int main() {
     task7();
     task8();
     task9();
+    task10();
     task11();
     task13();
     task15();
