@@ -7,6 +7,7 @@
 template <typename Type>
 void swap(Type *number1, Type *number2);
 void task2();
+void task3();
 void printArray(int arr[], int size_of_array);
 void printMatrix(int **matrix, int rows, int strings);
 void task5();
