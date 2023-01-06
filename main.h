@@ -14,6 +14,13 @@ void task4Func(float *array,int sizeOfArray);
 void task4();
 void task5();
 void arrayChanger(int arr[], int size_of_array);
+template <typename T>
+void fillArray(int n, T* arr);
+template <typename T>
+void printArray(int n, T* arr);
+template <typename T>
+void swap(T *a, T *b);
+void task6();
 void task7();
 void task8();
 int sumBetweenZeroes(int *arr, int sizeOfArray);
